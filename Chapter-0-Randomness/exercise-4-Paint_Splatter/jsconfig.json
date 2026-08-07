@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "checkJs": true,
+        "noImplicitAny": false,
+        "module": "esnext",
+        "moduleResolution":"node",
+        "target": "es2025"
+    },
+    "include": "*.js"
+}
