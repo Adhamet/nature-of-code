@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "checkJs": true,
+        "target": "es2025",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "noImplicitAny": false,
+    },
+    "include": "*.js"
+}
+
