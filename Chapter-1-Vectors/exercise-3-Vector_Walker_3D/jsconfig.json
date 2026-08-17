@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "checkJs": true,
+        "target": "es2025",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "noImplicitAny": false,
+        "types": ["p5/global"]
+    },
+    "include": "*.js"
+}
+
